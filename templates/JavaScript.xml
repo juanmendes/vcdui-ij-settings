@@ -1,0 +1,19 @@
+<templateSet group="JavaScript">
+  <template name="desc" value="describe('$TEST_NAME$', () =&gt; {&#10;   it('$DOES_SOMETHING$', ($done$) =&gt; {&#10;       $END$&#10;   })&#10;});" description="Jasmine describe" toReformat="false" toShortenFQNames="true">
+    <variable name="TEST_NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="DOES_SOMETHING" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="done" expression="" defaultValue="done" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="it" value="it('$DOES_SOMETHING$', ($DONE$) =&gt; {&#10;    $END$&#10;});" description="Jasmine it" toReformat="false" toShortenFQNames="true">
+    <variable name="DOES_SOMETHING" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DONE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
