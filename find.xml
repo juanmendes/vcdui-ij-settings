@@ -1,28 +1,40 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Reading readonlyness from links..." />
-    <option name="defaultScopeName" value="Reading readonlyness from links..." />
-    <option name="localCaseSensitive" value="true" />
-    <option name="showResultsInSeparateView" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Reading readonlyness from links..." />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.css</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*s.ts</mask>
+      <mask>*sp.ts</mask>
+      <mask>*spe.ts</mask>
+      <mask>*spec.ts</mask>
+      <mask>*spects</mask>
+      <mask>*spets</mask>
+      <mask>*spts</mask>
+      <mask>*sts</mask>
+      <mask>*ts</mask>
+      <mask>**.ts</mask>
+      <mask>*mo*.ts</mask>
+      <mask>*mod*.ts</mask>
+      <mask>*.s</mask>
+      <mask>*.c</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
+      <mask>*.m</mask>
+      <mask>*.mx</mask>
+      <mask>*.mxm</mask>
       <mask>*.mxml</mask>
-      <mask>*.iml</mask>
       <mask>*.as</mask>
-      <mask>*.AS</mask>
-      <mask>*.json</mask>
-      <mask>*.properties</mask>
+      <mask>*.a</mask>
+      <mask>.</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
