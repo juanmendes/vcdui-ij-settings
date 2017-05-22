@@ -1,7 +1,40 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Changed Files" />
-    <option name="defaultScopeName" value="Changed Files" />
-    <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.as" />
+    <recentFileMasks>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*s.ts</mask>
+      <mask>*sp.ts</mask>
+      <mask>*spe.ts</mask>
+      <mask>*spec.ts</mask>
+      <mask>*spects</mask>
+      <mask>*spets</mask>
+      <mask>*spts</mask>
+      <mask>*sts</mask>
+      <mask>*ts</mask>
+      <mask>**.ts</mask>
+      <mask>*mo*.ts</mask>
+      <mask>*mod*.ts</mask>
+      <mask>*.s</mask>
+      <mask>*.c</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
+      <mask>*.m</mask>
+      <mask>*.mx</mask>
+      <mask>*.mxm</mask>
+      <mask>*.mxml</mask>
+      <mask>*.a</mask>
+      <mask>.</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.as</mask>
+    </recentFileMasks>
   </component>
 </application>
