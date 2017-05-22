@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.as" />
     <recentFileMasks>
       <mask>*.ht</mask>
       <mask>*.h</mask>
@@ -28,13 +28,13 @@
       <mask>*.mx</mask>
       <mask>*.mxm</mask>
       <mask>*.mxml</mask>
-      <mask>*.as</mask>
       <mask>*.a</mask>
       <mask>.</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.as</mask>
     </recentFileMasks>
   </component>
 </application>
