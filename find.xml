@@ -1,9 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[content-core] - ...\content\core\src\main\common\state'" />
-    <option name="defaultScopeName" value="Directory '[content-core] - ...\content\core\src\main\common\state'" />
-    <option name="SEARCH_SCOPE" value="Directory '[content-core] - ...\content\core\src\main\common\state'" />
-    <option name="FILE_MASK" value="*.as" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.ht</mask>
       <mask>*.h</mask>
