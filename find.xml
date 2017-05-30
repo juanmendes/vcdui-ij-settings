@@ -22,22 +22,22 @@
       <mask>**.ts</mask>
       <mask>*mo*.ts</mask>
       <mask>*mod*.ts</mask>
-      <mask>*.s</mask>
       <mask>*.c</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.m</mask>
       <mask>*.mx</mask>
       <mask>*.mxm</mask>
       <mask>*.mxml</mask>
-      <mask>*.a</mask>
       <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.as</mask>
+      <mask>*.a</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.as</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
