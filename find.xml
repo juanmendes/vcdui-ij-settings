@@ -1,9 +1,23 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Changed Files" />
+    <option name="defaultScopeName" value="Changed Files" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Changed Files" />
     <recentFileMasks>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*s.ts</mask>
+      <mask>*sp.ts</mask>
+      <mask>*spe.ts</mask>
+      <mask>*spec.ts</mask>
+      <mask>*spects</mask>
+      <mask>*spets</mask>
+      <mask>*spts</mask>
+      <mask>*sts</mask>
       <mask>*ts</mask>
       <mask>**.ts</mask>
       <mask>*mo*.ts</mask>
@@ -14,26 +28,16 @@
       <mask>*.mxm</mask>
       <mask>*.mxml</mask>
       <mask>.</mask>
+      <mask>*</mask>
       <mask>*.as</mask>
       <mask>*.a</mask>
-      <mask>*.t</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.effects.ts</mask>
-      <mask>*.effects.t</mask>
-      <mask>*.effects.</mask>
-      <mask>*.effects</mask>
-      <mask>*.effect</mask>
-      <mask>*.effec</mask>
-      <mask>*.effe</mask>
-      <mask>*.eff</mask>
-      <mask>*.ef</mask>
-      <mask>*.e</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
