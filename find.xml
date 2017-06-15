@@ -2,40 +2,29 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*s.ts</mask>
-      <mask>*sp.ts</mask>
-      <mask>*spe.ts</mask>
-      <mask>*spec.ts</mask>
-      <mask>*spects</mask>
-      <mask>*spets</mask>
-      <mask>*spts</mask>
-      <mask>*sts</mask>
-      <mask>*ts</mask>
-      <mask>**.ts</mask>
-      <mask>*mo*.ts</mask>
-      <mask>*mod*.ts</mask>
-      <mask>*.s</mask>
-      <mask>*.c</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.m</mask>
-      <mask>*.mx</mask>
-      <mask>*.mxm</mask>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.a</mask>
-      <mask>.</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
+      <mask>*.mxm</mask>
+      <mask>*.mx</mask>
+      <mask>*.m</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>**</mask>
+      <mask>*cer*</mask>
+      <mask>*ce*</mask>
+      <mask>*c*</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.as</mask>
+      <mask>*.jsp</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
     </recentFileMasks>
   </component>
 </application>
