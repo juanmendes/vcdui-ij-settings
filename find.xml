@@ -20,11 +20,13 @@
       <mask>*cer*</mask>
       <mask>*ce*</mask>
       <mask>*c*</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.jsp</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
