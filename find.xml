@@ -21,10 +21,11 @@
       <mask>*ce*</mask>
       <mask>*c*</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
