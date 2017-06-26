@@ -1,8 +1,0 @@
-<templateSet group="user">
-  <template name="s" value="'$SELECTION$'" description="Surround with quotes" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-</templateSet>
