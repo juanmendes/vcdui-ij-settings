@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*effects.ts" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -20,7 +18,6 @@
       <mask>*ce*</mask>
       <mask>*c*</mask>
       <mask>*.jsp</mask>
-      <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
@@ -30,6 +27,14 @@
       <mask>*m*.ts</mask>
       <mask>*ma*.ts</mask>
       <mask>*map*.ts</mask>
+      <mask>effec</mask>
+      <mask>effe</mask>
+      <mask>eff</mask>
+      <mask>ef</mask>
+      <mask>e</mask>
+      <mask>*</mask>
+      <mask>*effects.t</mask>
+      <mask>*effects.ts</mask>
     </recentFileMasks>
   </component>
 </application>
