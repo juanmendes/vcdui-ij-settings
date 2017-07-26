@@ -1,9 +1,17 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -17,23 +25,17 @@
       <mask>*ce*</mask>
       <mask>*c*</mask>
       <mask>*.jsp</mask>
-      <mask>*.js</mask>
+      <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
-      <mask>*.ts</mask>
       <mask>**.ts</mask>
       <mask>*m*.ts</mask>
-      <mask>*ma*.ts</mask>
       <mask>*map*.ts</mask>
-      <mask>effec</mask>
-      <mask>effe</mask>
-      <mask>eff</mask>
-      <mask>ef</mask>
-      <mask>e</mask>
-      <mask>*</mask>
-      <mask>*effects.t</mask>
-      <mask>*effects.ts</mask>
+      <mask>*ma*.ts</mask>
+      <mask>*.js</mask>
+      <mask>*.s</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
