@@ -21,12 +21,8 @@
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
-      <mask>*.ts</mask>
       <mask>**.ts</mask>
-      <mask>*m*.ts</mask>
-      <mask>*ma*.ts</mask>
       <mask>*.js</mask>
-      <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
@@ -34,6 +30,10 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*map*.ts</mask>
+      <mask>*ma*.ts</mask>
+      <mask>*m*.ts</mask>
+      <mask>*.ts</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
