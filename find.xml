@@ -31,6 +31,14 @@
       <mask>**.ts</mask>
       <mask>*m*.ts</mask>
       <mask>*ma*.ts</mask>
+      <mask>*.js</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
       <mask>*map*.ts</mask>
     </recentFileMasks>
   </component>
