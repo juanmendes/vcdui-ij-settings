@@ -5,12 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*map*.ts" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.mxm</mask>
@@ -28,12 +24,10 @@
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
-      <mask>*.ts</mask>
       <mask>**.ts</mask>
       <mask>*m*.ts</mask>
       <mask>*ma*.ts</mask>
       <mask>*.js</mask>
-      <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
@@ -41,6 +35,8 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*map*.ts</mask>
+      <mask>*.ts</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
