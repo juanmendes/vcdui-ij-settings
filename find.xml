@@ -5,38 +5,38 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.mxm</mask>
-      <mask>*.mx</mask>
-      <mask>*.m</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>**</mask>
-      <mask>*cer*</mask>
       <mask>*ce*</mask>
       <mask>*c*</mask>
       <mask>*.jsp</mask>
       <mask>*</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>**.ts</mask>
       <mask>*m*.ts</mask>
       <mask>*ma*.ts</mask>
       <mask>*map*.ts</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.prope</mask>
+      <mask>*.propertiesjava</mask>
+      <mask>*.propertiesjav</mask>
+      <mask>*.propertiesja</mask>
+      <mask>*.propertiesj</mask>
       <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properti</mask>
+      <mask>*.propert</mask>
+      <mask>*.proper</mask>
+      <mask>*.prope</mask>
+      <mask>*.prop</mask>
+      <mask>*.pro</mask>
+      <mask>*.pr</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
