@@ -2,40 +2,42 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.mxm</mask>
-      <mask>*.mx</mask>
-      <mask>*.m</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>**</mask>
-      <mask>*cer*</mask>
       <mask>*ce*</mask>
       <mask>*c*</mask>
       <mask>*.jsp</mask>
       <mask>*</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
       <mask>**.ts</mask>
-      <mask>*.js</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*m*.ts</mask>
       <mask>*ma*.ts</mask>
       <mask>*map*.ts</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.propertiesjava</mask>
+      <mask>*.propertiesjav</mask>
+      <mask>*.propertiesja</mask>
+      <mask>*.propertiesj</mask>
+      <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properti</mask>
+      <mask>*.propert</mask>
+      <mask>*.proper</mask>
+      <mask>*.prope</mask>
+      <mask>*.prop</mask>
+      <mask>*.pro</mask>
+      <mask>*.pr</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
