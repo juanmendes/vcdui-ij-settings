@@ -5,18 +5,14 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*spec*.ts" />
     <recentFileMasks>
-      <mask>*ce*</mask>
-      <mask>*c*</mask>
-      <mask>*.jsp</mask>
       <mask>*</mask>
       <mask>*.js</mask>
       <mask>**.ts</mask>
       <mask>*m*.ts</mask>
       <mask>*ma*.ts</mask>
       <mask>*map*.ts</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
       <mask>*.propertiesjava</mask>
       <mask>*.propertiesjav</mask>
       <mask>*.propertiesja</mask>
@@ -36,6 +32,11 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
+      <mask>*spe.ts</mask>
+      <mask>*spec.ts</mask>
+      <mask>*spec*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
