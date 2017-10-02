@@ -5,11 +5,8 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*spec*.ts" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*</mask>
-      <mask>*.js</mask>
-      <mask>**.ts</mask>
       <mask>*m*.ts</mask>
       <mask>*ma*.ts</mask>
       <mask>*map*.ts</mask>
@@ -17,26 +14,29 @@
       <mask>*.propertiesjav</mask>
       <mask>*.propertiesja</mask>
       <mask>*.propertiesj</mask>
-      <mask>*.properties</mask>
-      <mask>*.propertie</mask>
-      <mask>*.properti</mask>
-      <mask>*.propert</mask>
-      <mask>*.proper</mask>
       <mask>*.prope</mask>
-      <mask>*.prop</mask>
       <mask>*.pro</mask>
       <mask>*.pr</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
       <mask>*spe.ts</mask>
       <mask>*spec.ts</mask>
       <mask>*spec*.ts</mask>
+      <mask>*</mask>
+      <mask>*.^</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
+      <mask>*.p</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
