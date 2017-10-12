@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="lala" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="/api/sessions" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="header-links-parser.ts" type="TypeScript" />
     </extensionMap>
