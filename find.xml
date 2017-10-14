@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*map*.ts</mask>
       <mask>*.propertiesjava</mask>
@@ -26,14 +27,14 @@
       <mask>*.propert</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
       <mask>*.m</mask>
       <mask>*.mx</mask>
       <mask>*.mxm</mask>
       <mask>*.mxml</mask>
-      <mask>*.</mask>
       <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
