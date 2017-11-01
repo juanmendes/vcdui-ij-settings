@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*spec.ts</mask>
       <mask>*spec*.ts</mask>
@@ -22,7 +23,6 @@
       <mask>*.mxm</mask>
       <mask>*.mxml</mask>
       <mask>*.*</mask>
-      <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.c</mask>
@@ -36,6 +36,7 @@
       <mask>actions.t</mask>
       <mask>actions.ts</mask>
       <mask>*actions.ts</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
