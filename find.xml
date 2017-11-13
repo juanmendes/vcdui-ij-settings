@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.prope</mask>
-      <mask>*.proper</mask>
       <mask>*.propert</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
@@ -14,7 +12,9 @@
       <mask>*.mxm</mask>
       <mask>*.mxml</mask>
       <mask>*.*</mask>
+      <mask>*.ts</mask>
       <mask>*.t</mask>
+      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
@@ -26,14 +26,14 @@
       <mask>actions.t</mask>
       <mask>actions.ts</mask>
       <mask>*actions.ts</mask>
-      <mask>*.ts</mask>
-      <mask>*.as</mask>
-      <mask>*.a</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
+      <mask>*e.ts</mask>
+      <mask>*effe.ts</mask>
+      <mask>*effec.ts</mask>
+      <mask>*effect.ts</mask>
+      <mask>*effects.ts</mask>
+      <mask>*modu.ts</mask>
+      <mask>*modul.ts</mask>
+      <mask>*module.ts</mask>
     </recentFileMasks>
   </component>
 </application>
