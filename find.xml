@@ -1,48 +1,39 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.spec.ts, *module.ts" />
     <recentFileMasks>
-      <mask>(!spec)</mask>
-      <mask>!spec)</mask>
-      <mask>!spec</mask>
-      <mask>spec</mask>
-      <mask>spec.</mask>
-      <mask>spec.t</mask>
-      <mask>spec.ts</mask>
-      <mask>*spec.ts</mask>
-      <mask>*.spec.ts</mask>
-      <mask>!*.spec.ts</mask>
-      <mask>!*.spec.ts</mask>
-      <mask>!*.spec.ts &amp;</mask>
-      <mask>!*.spec.ts &amp;&amp;</mask>
-      <mask>!*.spec.ts &amp;&amp;</mask>
-      <mask>!*.spec.ts &amp;&amp; *.spec.ts</mask>
-      <mask>!*.spec.ts &amp;&amp; *.spe.ts</mask>
-      <mask>!*.spec.ts &amp;&amp; *.sp.ts</mask>
-      <mask>!*.spec.ts &amp;&amp; *.s.ts</mask>
-      <mask>!*.spec.ts &amp;&amp; *..ts</mask>
-      <mask>!*.spec.ts &amp; *..ts</mask>
-      <mask>!*.spec.ts  *..ts</mask>
-      <mask>!*.spec.ts *..ts</mask>
-      <mask>!*.spec.ts, *..ts</mask>
-      <mask>!*.spec.ts, *.ts</mask>
-      <mask>!*.spec.ts, *m.ts</mask>
-      <mask>!*.spec.ts, *mo.ts</mask>
-      <mask>!*.spec.ts, *mod.ts</mask>
-      <mask>!*.spec.ts, *modu.ts</mask>
-      <mask>!*.spec.ts, *modul.ts</mask>
-      <mask>!*.spec.ts, *module.ts</mask>
+      <mask>*.propert</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
+      <mask>*.m</mask>
+      <mask>*.mx</mask>
+      <mask>*.mxm</mask>
+      <mask>*.mxml</mask>
+      <mask>*.*</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>a</mask>
+      <mask>ac</mask>
+      <mask>acti</mask>
+      <mask>actions</mask>
+      <mask>actions.</mask>
+      <mask>actions.t</mask>
+      <mask>actions.ts</mask>
+      <mask>*actions.ts</mask>
+      <mask>*e.ts</mask>
+      <mask>*effe.ts</mask>
+      <mask>*effec.ts</mask>
+      <mask>*effect.ts</mask>
+      <mask>*effects.ts</mask>
+      <mask>*modu.ts</mask>
+      <mask>*modul.ts</mask>
+      <mask>*module.ts</mask>
     </recentFileMasks>
   </component>
 </application>
