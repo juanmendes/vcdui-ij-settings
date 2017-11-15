@@ -3,38 +3,37 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.prope</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.propertie</mask>
-      <mask>*.properties</mask>
-      <mask>*.m</mask>
-      <mask>*.mx</mask>
-      <mask>*.mxm</mask>
-      <mask>*.mxml</mask>
-      <mask>*.*</mask>
-      <mask>*.t</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>a</mask>
-      <mask>ac</mask>
-      <mask>acti</mask>
-      <mask>actions</mask>
-      <mask>actions.</mask>
-      <mask>actions.t</mask>
-      <mask>actions.ts</mask>
-      <mask>*actions.ts</mask>
-      <mask>*.ts</mask>
-      <mask>*.as</mask>
-      <mask>*.a</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
+      <mask>.*(!spec)*.ts</mask>
+      <mask>.*(!spec)*ts</mask>
+      <mask>.*(!spec)*s</mask>
+      <mask>.*(!spec)*</mask>
+      <mask>.*(!spec)</mask>
+      <mask>*(!spec)</mask>
+      <mask>(!spec)</mask>
+      <mask>!spec)</mask>
+      <mask>!spec</mask>
+      <mask>spec</mask>
+      <mask>spec.</mask>
+      <mask>spec.t</mask>
+      <mask>spec.ts</mask>
+      <mask>*spec.ts</mask>
+      <mask>*.spec.ts</mask>
+      <mask>!*.spec.ts</mask>
+      <mask>!*.spec.ts</mask>
+      <mask>!*.spec.ts &amp;</mask>
+      <mask>!*.spec.ts &amp;&amp;</mask>
+      <mask>!*.spec.ts &amp;&amp;</mask>
+      <mask>!*.spec.ts &amp;&amp; *.spec.ts</mask>
+      <mask>!*.spec.ts &amp;&amp; *.spe.ts</mask>
+      <mask>!*.spec.ts &amp;&amp; *.sp.ts</mask>
+      <mask>!*.spec.ts &amp;&amp; *.s.ts</mask>
+      <mask>!*.spec.ts &amp;&amp; *..ts</mask>
+      <mask>!*.spec.ts &amp; *..ts</mask>
+      <mask>!*.spec.ts  *..ts</mask>
+      <mask>!*.spec.ts *..ts</mask>
+      <mask>!*.spec.ts, *..ts</mask>
+      <mask>!*.spec.ts, *.ts</mask>
     </recentFileMasks>
   </component>
 </application>
