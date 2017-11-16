@@ -3,25 +3,18 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!spec.ts, *module*.ts" />
+    <option name="FILE_MASK" value="!*.spec.ts, *.ts" />
     <recentFileMasks>
-      <mask>!s*module.ts</mask>
-      <mask>!sp*module.ts</mask>
-      <mask>!spe*module.ts</mask>
-      <mask>!spec*module.ts</mask>
-      <mask>!spec.*module.ts</mask>
-      <mask>!spec.t*module.ts</mask>
-      <mask>!spec.ts*module.ts</mask>
-      <mask>!spec.ts,*module.ts</mask>
       <mask>!spec.ts, *module.ts</mask>
       <mask>!spec.ts, *odule.ts</mask>
       <mask>!spec.ts, *dule.ts</mask>
       <mask>!spec.ts, *ule.ts</mask>
       <mask>!spec.ts, *le.ts</mask>
       <mask>!spec.ts, *e.ts</mask>
-      <mask>!spec.ts, *.ts</mask>
       <mask>!spec.ts, *s.ts</mask>
       <mask>!spec.ts, *se.ts</mask>
       <mask>!spec.ts, *ser.ts</mask>
@@ -37,6 +30,15 @@
       <mask>!spec.ts, *modulerv*.ts</mask>
       <mask>!spec.ts, *modulev*.ts</mask>
       <mask>!spec.ts, *module*.ts</mask>
+      <mask>!spec.ts, *odule*.ts</mask>
+      <mask>!spec.ts, *dule*.ts</mask>
+      <mask>!spec.ts, *ule*.ts</mask>
+      <mask>!spec.ts, *le*.ts</mask>
+      <mask>!spec.ts, *e*.ts</mask>
+      <mask>!spec.ts, **.ts</mask>
+      <mask>!spec.ts, *.ts</mask>
+      <mask>!*spec.ts, *.ts</mask>
+      <mask>!*.spec.ts, *.ts</mask>
     </recentFileMasks>
   </component>
 </application>
