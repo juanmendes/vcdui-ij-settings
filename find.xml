@@ -3,37 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>!spec.ts, *module.ts</mask>
-      <mask>!spec.ts, *odule.ts</mask>
-      <mask>!spec.ts, *dule.ts</mask>
-      <mask>!spec.ts, *ule.ts</mask>
-      <mask>!spec.ts, *le.ts</mask>
-      <mask>!spec.ts, *e.ts</mask>
-      <mask>!spec.ts, *s.ts</mask>
-      <mask>!spec.ts, *se.ts</mask>
-      <mask>!spec.ts, *ser.ts</mask>
-      <mask>!spec.ts, *serv.ts</mask>
-      <mask>!spec.ts, *serv*.ts</mask>
-      <mask>!spec.ts, *mserv*.ts</mask>
-      <mask>!spec.ts, *moserv*.ts</mask>
-      <mask>!spec.ts, *modserv*.ts</mask>
-      <mask>!spec.ts, *moduserv*.ts</mask>
-      <mask>!spec.ts, *modulserv*.ts</mask>
-      <mask>!spec.ts, *moduleserv*.ts</mask>
-      <mask>!spec.ts, *moduleerv*.ts</mask>
-      <mask>!spec.ts, *modulerv*.ts</mask>
-      <mask>!spec.ts, *modulev*.ts</mask>
-      <mask>!spec.ts, *module*.ts</mask>
-      <mask>!spec.ts, *odule*.ts</mask>
-      <mask>!spec.ts, *dule*.ts</mask>
-      <mask>!spec.ts, *ule*.ts</mask>
-      <mask>!spec.ts, *le*.ts</mask>
-      <mask>!spec.ts, *e*.ts</mask>
-      <mask>!spec.ts, **.ts</mask>
-      <mask>!spec.ts, *.ts</mask>
-      <mask>!*spec.ts, *.ts</mask>
-      <mask>!*.spec.ts, *.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>a</mask>
+      <mask>ac</mask>
+      <mask>acti</mask>
+      <mask>actions</mask>
+      <mask>actions.</mask>
+      <mask>actions.t</mask>
+      <mask>actions.ts</mask>
+      <mask>*actions.ts</mask>
+      <mask>*e.ts</mask>
+      <mask>*effe.ts</mask>
+      <mask>*effec.ts</mask>
+      <mask>*effect.ts</mask>
+      <mask>*effects.ts</mask>
+      <mask>*module.ts</mask>
+      <mask>*modul.ts</mask>
+      <mask>*modu.ts</mask>
+      <mask>*mod.ts</mask>
+      <mask>*mo.ts</mask>
+      <mask>*m.ts</mask>
+      <mask>.ts</mask>
+      <mask>*.ts</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
