@@ -21,12 +21,8 @@
       <mask>*effec.ts</mask>
       <mask>*effect.ts</mask>
       <mask>*effects.ts</mask>
-      <mask>*module.ts</mask>
       <mask>*modul.ts</mask>
-      <mask>*modu.ts</mask>
       <mask>*mod.ts</mask>
-      <mask>*mo.ts</mask>
-      <mask>*m.ts</mask>
       <mask>.ts</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
@@ -34,6 +30,10 @@
       <mask>*.java</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*m.ts</mask>
+      <mask>*mo.ts</mask>
+      <mask>*modu.ts</mask>
+      <mask>*module.ts</mask>
     </recentFileMasks>
   </component>
 </application>
