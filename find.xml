@@ -3,7 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
+      <mask>*.</mask>
+      <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>a</mask>
@@ -19,21 +22,19 @@
       <mask>*effec.ts</mask>
       <mask>*effect.ts</mask>
       <mask>*effects.ts</mask>
-      <mask>*modu.ts</mask>
-      <mask>*modul.ts</mask>
       <mask>*module.ts</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.prope</mask>
-      <mask>*.proper</mask>
-      <mask>*.properti</mask>
-      <mask>*.properties</mask>
-      <mask>*.s</mask>
-      <mask>*.scss</mask>
+      <mask>*modul.ts</mask>
+      <mask>*modu.ts</mask>
+      <mask>*mod.ts</mask>
+      <mask>*mo.ts</mask>
+      <mask>*m.ts</mask>
+      <mask>.ts</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
