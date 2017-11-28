@@ -5,11 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
-      <mask>*.mx</mask>
-      <mask>*.mxm</mask>
-      <mask>*.mxml</mask>
-      <mask>*.*</mask>
-      <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
@@ -34,6 +29,11 @@
       <mask>*mo.ts</mask>
       <mask>*m.ts</mask>
       <mask>.ts</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>*.t</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
   </component>
