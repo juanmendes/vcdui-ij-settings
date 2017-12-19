@@ -1,16 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
+      <mask>acti</mask>
+      <mask>actions</mask>
       <mask>actions.</mask>
       <mask>actions.t</mask>
       <mask>actions.ts</mask>
@@ -27,6 +22,8 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
       <mask>*m.ts</mask>
       <mask>*mo.ts</mask>
       <mask>*modu.ts</mask>
@@ -35,12 +32,8 @@
       <mask>*jso</mask>
       <mask>*js</mask>
       <mask>*j</mask>
-      <mask>*ts</mask>
-      <mask>*t</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
+      <mask>*yaml</mask>
     </recentFileMasks>
   </component>
 </application>
