@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
-      <mask>acti</mask>
-      <mask>actions</mask>
-      <mask>actions.</mask>
-      <mask>actions.t</mask>
       <mask>actions.ts</mask>
       <mask>*actions.ts</mask>
       <mask>*e.ts</mask>
@@ -22,8 +19,6 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
       <mask>*m.ts</mask>
       <mask>*mo.ts</mask>
       <mask>*modu.ts</mask>
@@ -32,8 +27,14 @@
       <mask>*jso</mask>
       <mask>*js</mask>
       <mask>*j</mask>
-      <mask>*</mask>
       <mask>*yaml</mask>
+      <mask>*yam</mask>
+      <mask>*ya</mask>
+      <mask>*y</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
