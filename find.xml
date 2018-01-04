@@ -5,19 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts, !*.spec.ts" />
     <recentFileMasks>
-      <mask>actions</mask>
-      <mask>actions.</mask>
-      <mask>actions.t</mask>
-      <mask>actions.ts</mask>
-      <mask>*actions.ts</mask>
-      <mask>*e.ts</mask>
-      <mask>*effe.ts</mask>
-      <mask>*effec.ts</mask>
-      <mask>*effect.ts</mask>
-      <mask>*effects.ts</mask>
-      <mask>*modul.ts</mask>
-      <mask>*mod.ts</mask>
       <mask>.ts</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
@@ -36,6 +25,18 @@
       <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*.ts,</mask>
+      <mask>*.ts,</mask>
+      <mask>*.ts, !</mask>
+      <mask>*.ts, !*</mask>
+      <mask>*.ts, !*.</mask>
+      <mask>*.ts, !*.s</mask>
+      <mask>*.ts, !*.sp</mask>
+      <mask>*.ts, !*.spe</mask>
+      <mask>*.ts, !*.spec</mask>
+      <mask>*.ts, !*.spec.</mask>
+      <mask>*.ts, !*.spec.t</mask>
+      <mask>*.ts, !*.spec.ts</mask>
     </recentFileMasks>
   </component>
 </application>
