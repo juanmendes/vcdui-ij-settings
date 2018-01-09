@@ -3,38 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts, !*.spec.ts" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
+      <mask>actions.ts</mask>
+      <mask>*actions.ts</mask>
+      <mask>*e.ts</mask>
+      <mask>*effe.ts</mask>
+      <mask>*effec.ts</mask>
+      <mask>*effect.ts</mask>
+      <mask>*effects.ts</mask>
+      <mask>*modul.ts</mask>
+      <mask>*mod.ts</mask>
+      <mask>.ts</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>*m.ts</mask>
+      <mask>*mo.ts</mask>
       <mask>*modu.ts</mask>
       <mask>*module.ts</mask>
       <mask>*json</mask>
       <mask>*jso</mask>
       <mask>*js</mask>
       <mask>*j</mask>
-      <mask>*</mask>
       <mask>*yaml</mask>
+      <mask>*yam</mask>
+      <mask>*ya</mask>
+      <mask>*y</mask>
+      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
-      <mask>*.ts,</mask>
-      <mask>*.ts,</mask>
-      <mask>*.ts, !</mask>
-      <mask>*.ts, !*</mask>
-      <mask>*.ts, !*.</mask>
-      <mask>*.ts, !*.s</mask>
-      <mask>*.ts, !*.sp</mask>
-      <mask>*.ts, !*.spe</mask>
-      <mask>*.ts, !*.spec</mask>
-      <mask>*.ts, !*.spec.</mask>
-      <mask>*.ts, !*.spec.t</mask>
-      <mask>*.cs, !*.spec.ts</mask>
-      <mask>*.csss, !*.spec.ts</mask>
-      <mask>*.css, !*.spec.ts</mask>
-      <mask>*.scss, !*.spec.ts</mask>
-      <mask>*.scs, !*.spec.ts</mask>
-      <mask>*.ss, !*.spec.ts</mask>
-      <mask>*.s, !*.spec.ts</mask>
-      <mask>*.ts, !*.spec.ts</mask>
     </recentFileMasks>
   </component>
 </application>
