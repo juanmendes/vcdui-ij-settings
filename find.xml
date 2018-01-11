@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yaml" />
     <recentFileMasks>
-      <mask>*effe.ts</mask>
       <mask>*effec.ts</mask>
       <mask>*effect.ts</mask>
       <mask>*effects.ts</mask>
@@ -29,12 +27,13 @@
       <mask>*ya</mask>
       <mask>*y</mask>
       <mask>*</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
-      <mask>*.yam</mask>
       <mask>*.yaml</mask>
+      <mask>*.yam</mask>
+      <mask>*.ya</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
