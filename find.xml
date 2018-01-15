@@ -3,10 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*e.ts</mask>
-      <mask>*effe.ts</mask>
       <mask>*effec.ts</mask>
       <mask>*effect.ts</mask>
       <mask>*effects.ts</mask>
@@ -30,11 +27,13 @@
       <mask>*ya</mask>
       <mask>*y</mask>
       <mask>*</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
       <mask>*.</mask>
-      <mask>*.h</mask>
       <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
