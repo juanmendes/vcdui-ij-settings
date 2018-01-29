@@ -7,15 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts, !*.spec*" />
+    <option name="FILE_MASK" value="*.ts, !*.spec*,*.java" />
     <recentFileMasks>
-      <mask>*module.ts</mask>
-      <mask>*json</mask>
-      <mask>*jso</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
-      <mask>*yaml</mask>
-      <mask>*yam</mask>
       <mask>*ya</mask>
       <mask>*y</mask>
       <mask>*</mask>
@@ -39,6 +32,13 @@
       <mask>*.ts, !*.spe</mask>
       <mask>*.ts, !*.spec</mask>
       <mask>*.ts, !*.spec*</mask>
+      <mask>*.ts, !*.spec*,</mask>
+      <mask>*.ts, !*.spec*,*</mask>
+      <mask>*.ts, !*.spec*,*.</mask>
+      <mask>*.ts, !*.spec*,*.j</mask>
+      <mask>*.ts, !*.spec*,*.ja</mask>
+      <mask>*.ts, !*.spec*,*.jav</mask>
+      <mask>*.ts, !*.spec*,*.java</mask>
     </recentFileMasks>
   </component>
 </application>
