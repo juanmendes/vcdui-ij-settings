@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*mod.ts</mask>
       <mask>.ts</mask>
@@ -31,10 +31,10 @@
       <mask>*.yam</mask>
       <mask>*.ya</mask>
       <mask>*.y</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
