@@ -8,34 +8,34 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>a</mask>
-      <mask>ac</mask>
-      <mask>acti</mask>
-      <mask>actions</mask>
-      <mask>actions.</mask>
-      <mask>actions.t</mask>
-      <mask>actions.ts</mask>
-      <mask>*actions.ts</mask>
-      <mask>*e.ts</mask>
-      <mask>*effe.ts</mask>
-      <mask>*effec.ts</mask>
-      <mask>*effect.ts</mask>
-      <mask>*effects.ts</mask>
-      <mask>*module.ts</mask>
-      <mask>*modul.ts</mask>
-      <mask>*modu.ts</mask>
       <mask>*mod.ts</mask>
-      <mask>*mo.ts</mask>
-      <mask>*m.ts</mask>
       <mask>.ts</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*m.ts</mask>
+      <mask>*mo.ts</mask>
+      <mask>*modu.ts</mask>
+      <mask>*module.ts</mask>
+      <mask>*json</mask>
+      <mask>*jso</mask>
+      <mask>*js</mask>
+      <mask>*j</mask>
+      <mask>*yaml</mask>
+      <mask>*yam</mask>
+      <mask>*ya</mask>
+      <mask>*y</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.yaml</mask>
+      <mask>*.yam</mask>
+      <mask>*.ya</mask>
+      <mask>*.y</mask>
+      <mask>*.h</mask>
+      <mask>*.html</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
