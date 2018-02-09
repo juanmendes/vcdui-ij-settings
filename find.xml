@@ -4,11 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*mod.ts</mask>
-      <mask>.ts</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*m.ts</mask>
       <mask>*mo.ts</mask>
@@ -34,6 +29,11 @@
       <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>w*.ts</mask>
+      <mask>work*.ts</mask>
+      <mask>workfl*.ts</mask>
+      <mask>workflo*.ts</mask>
+      <mask>workflow*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
