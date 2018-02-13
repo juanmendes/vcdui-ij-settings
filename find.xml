@@ -3,18 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html, *.spec.ts,*.java" />
     <recentFileMasks>
-      <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*.ts</mask>
-      <mask>*.ts,</mask>
-      <mask>*.ts,</mask>
-      <mask>*.ts, !.s</mask>
-      <mask>*.ts, !.</mask>
-      <mask>*.ts, !8</mask>
-      <mask>*.ts, !</mask>
-      <mask>*.ts, !*</mask>
-      <mask>*.ts, !*.</mask>
       <mask>*.ts, !*.s</mask>
       <mask>*.ts, !*.sp</mask>
       <mask>*.ts, !*.spe</mask>
@@ -34,6 +24,17 @@
       <mask>*.ts,*.htm !*.spec*,*.java</mask>
       <mask>*.ts,*.html !*.spec*,*.java</mask>
       <mask>*.ts,*.html, !*.spec*,*.java</mask>
+      <mask>!*.ts,*.html, !*.spec*,*.java</mask>
+      <mask>!*.ts,*.html, *.spec*,*.java</mask>
+      <mask>!*.ts,*.html, *.spec,*.java</mask>
+      <mask>!*.ts,*.html, *.spec.,*.java</mask>
+      <mask>!*.ts,*.html, *.spec.t,*.java</mask>
+      <mask>!*.ts,*.html, *.spec.ts,*.java</mask>
+      <mask>*.ts,*.html, *.spec.ts,*.java</mask>
+      <mask>ts,*.html, *.spec.ts,*.java</mask>
+      <mask>s,*.html, *.spec.ts,*.java</mask>
+      <mask>,*.html, *.spec.ts,*.java</mask>
+      <mask>*.html, *.spec.ts,*.java</mask>
     </recentFileMasks>
   </component>
 </application>
