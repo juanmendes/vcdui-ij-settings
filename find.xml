@@ -3,20 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="en.properties*" />
     <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*m.ts</mask>
-      <mask>*mo.ts</mask>
-      <mask>*modu.ts</mask>
-      <mask>*module.ts</mask>
-      <mask>*json</mask>
-      <mask>*jso</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
-      <mask>*yaml</mask>
-      <mask>*yam</mask>
-      <mask>*ya</mask>
-      <mask>*y</mask>
       <mask>*</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
@@ -34,6 +22,19 @@
       <mask>workfl*.ts</mask>
       <mask>workflo*.ts</mask>
       <mask>workflow*.ts</mask>
+      <mask>e</mask>
+      <mask>en</mask>
+      <mask>en.</mask>
+      <mask>en.p</mask>
+      <mask>en.pr</mask>
+      <mask>en.pro</mask>
+      <mask>en.prop</mask>
+      <mask>en.proper</mask>
+      <mask>en.propert</mask>
+      <mask>en.properti</mask>
+      <mask>en.propertie</mask>
+      <mask>en.properties</mask>
+      <mask>en.properties*</mask>
     </recentFileMasks>
   </component>
 </application>
