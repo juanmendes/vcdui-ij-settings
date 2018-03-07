@@ -1,28 +1,14 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts,*.html, !*.spec.ts,!translations.ts,*.java" />
     <recentFileMasks>
-      <mask>*.ts, !*.spec*,*</mask>
-      <mask>*.ts, !*.spec*,*.</mask>
-      <mask>*.ts, !*.spec*,*.j</mask>
-      <mask>*.ts, !*.spec*,*.ja</mask>
-      <mask>*.ts, !*.spec*,*.jav</mask>
-      <mask>*.ts, !*.spec*,*.java</mask>
-      <mask>*.ts,* !*.spec*,*.java</mask>
-      <mask>*.ts,*. !*.spec*,*.java</mask>
-      <mask>*.ts,*.h !*.spec*,*.java</mask>
-      <mask>*.ts,*.ht !*.spec*,*.java</mask>
-      <mask>*.ts,*.htm !*.spec*,*.java</mask>
-      <mask>*.ts,*.html !*.spec*,*.java</mask>
-      <mask>*.ts,*.html, !*.spec*,*.java</mask>
-      <mask>!*.ts,*.html, !*.spec*,*.java</mask>
-      <mask>!*.ts,*.html, *.spec*,*.java</mask>
-      <mask>!*.ts,*.html, *.spec,*.java</mask>
-      <mask>!*.ts,*.html, *.spec.,*.java</mask>
-      <mask>!*.ts,*.html, *.spec.t,*.java</mask>
-      <mask>!*.ts,*.html, *.spec.ts,*.java</mask>
       <mask>*.ts,*.html, *.spec.ts,*.java</mask>
       <mask>ts,*.html, *.spec.ts,*.java</mask>
       <mask>s,*.html, *.spec.ts,*.java</mask>
@@ -34,6 +20,25 @@
       <mask>*.t*.html, !*.spec.ts,*.java</mask>
       <mask>*.ts*.html, !*.spec.ts,*.java</mask>
       <mask>*.ts,*.html, !*.spec.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*.spec.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*.spe.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*.sp.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*.s.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*..ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*.t.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*.tr.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*.tra.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*.tran.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*.trans.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*.transl.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*.transla.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*.translat.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*.translati.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*.translatin.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*.translatins.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*.translations.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!*translations.ts,*.java</mask>
+      <mask>*.ts,*.html, !*.spec.ts,!translations.ts,*.java</mask>
     </recentFileMasks>
   </component>
 </application>
