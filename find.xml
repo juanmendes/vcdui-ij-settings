@@ -5,7 +5,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts,*.html, !*.spec.ts,!translations.ts,*.java" />
     <recentFileMasks>
       <mask>*.ts,*.html, *.spec.ts,*.java</mask>
       <mask>ts,*.html, *.spec.ts,*.java</mask>
