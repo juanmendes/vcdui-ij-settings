@@ -9,8 +9,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts,!*.html, *.spec.ts,!translations.ts,*.java" />
     <recentFileMasks>
-      <mask>ts,*.html, *.spec.ts,*.java</mask>
       <mask>s,*.html, *.spec.ts,*.java</mask>
       <mask>,*.html, *.spec.ts,*.java</mask>
       <mask>*.html, *.spec.ts,*.java</mask>
@@ -40,6 +40,7 @@
       <mask>*.ts,*.html, !*.spec.ts,!*translations.ts,*.java</mask>
       <mask>*.ts,*.html, !*.spec.ts,!translations.ts,*.java</mask>
       <mask>*.ts,!*.html, !*.spec.ts,!translations.ts,*.java</mask>
+      <mask>*.ts,!*.html, *.spec.ts,!translations.ts,*.java</mask>
     </recentFileMasks>
   </component>
 </application>
