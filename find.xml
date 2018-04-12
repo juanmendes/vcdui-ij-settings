@@ -5,19 +5,8 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.module.ts" />
     <recentFileMasks>
-      <mask>*.html, !*.spec.ts,*.java</mask>
-      <mask>**.html, !*.spec.ts,*.java</mask>
-      <mask>*.*.html, !*.spec.ts,*.java</mask>
-      <mask>*.t*.html, !*.spec.ts,*.java</mask>
-      <mask>*.ts*.html, !*.spec.ts,*.java</mask>
-      <mask>*.ts,*.html, !*.spec.ts,*.java</mask>
-      <mask>*.ts,*.html, !*.spec.ts,!*.spec.ts,*.java</mask>
-      <mask>*.ts,*.html, !*.spec.ts,!*.spe.ts,*.java</mask>
-      <mask>*.ts,*.html, !*.spec.ts,!*.sp.ts,*.java</mask>
-      <mask>*.ts,*.html, !*.spec.ts,!*.s.ts,*.java</mask>
-      <mask>*.ts,*.html, !*.spec.ts,!*..ts,*.java</mask>
-      <mask>*.ts,*.html, !*.spec.ts,!*.t.ts,*.java</mask>
       <mask>*.ts,*.html, !*.spec.ts,!*.tr.ts,*.java</mask>
       <mask>*.ts,*.html, !*.spec.ts,!*.tra.ts,*.java</mask>
       <mask>*.ts,*.html, !*.spec.ts,!*.tran.ts,*.java</mask>
@@ -36,6 +25,18 @@
       <mask>*.routes.</mask>
       <mask>*.routes.t</mask>
       <mask>*.routes.ts</mask>
+      <mask>*.route.ts</mask>
+      <mask>*.rout.ts</mask>
+      <mask>*.rou.ts</mask>
+      <mask>*.ro.ts</mask>
+      <mask>*.r.ts</mask>
+      <mask>*..ts</mask>
+      <mask>*.m.ts</mask>
+      <mask>*.mo.ts</mask>
+      <mask>*.mod.ts</mask>
+      <mask>*.modu.ts</mask>
+      <mask>*.modul.ts</mask>
+      <mask>*.module.ts</mask>
     </recentFileMasks>
   </component>
 </application>
