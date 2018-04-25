@@ -4,13 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.ts,*.html, !*.spec.ts,!*.transl.ts,*.java</mask>
-      <mask>*.ts,*.html, !*.spec.ts,!*.transla.ts,*.java</mask>
-      <mask>*.ts,*.html, !*.spec.ts,!*.translat.ts,*.java</mask>
-      <mask>*.ts,*.html, !*.spec.ts,!*.translati.ts,*.java</mask>
-      <mask>*.ts,*.html, !*.spec.ts,!*.translatin.ts,*.java</mask>
-      <mask>*.ts,*.html, !*.spec.ts,!*.translatins.ts,*.java</mask>
-      <mask>*.ts,*.html, !*.spec.ts,!*.translations.ts,*.java</mask>
       <mask>*.ts,*.html, !*.spec.ts,!*translations.ts,*.java</mask>
       <mask>*.ts,*.html, !*.spec.ts,!translations.ts,*.java</mask>
       <mask>*</mask>
@@ -23,17 +16,24 @@
       <mask>*.rou.ts</mask>
       <mask>*.ro.ts</mask>
       <mask>*.r.ts</mask>
-      <mask>*..ts</mask>
       <mask>*.m.ts</mask>
       <mask>*.mo.ts</mask>
       <mask>*.mod.ts</mask>
       <mask>*.modu.ts</mask>
       <mask>*.modul.ts</mask>
       <mask>*.module.ts</mask>
-      <mask>*.s.ts</mask>
-      <mask>*.sp.ts</mask>
-      <mask>*.spe.ts</mask>
       <mask>*.spec.ts</mask>
+      <mask>*.spe.ts</mask>
+      <mask>*.sp.ts</mask>
+      <mask>*.s.ts</mask>
+      <mask>*.pile.ts</mask>
+      <mask>*.pil.ts</mask>
+      <mask>*.pipe.ts</mask>
+      <mask>*.pip.ts</mask>
+      <mask>*.pi.ts</mask>
+      <mask>*.p.ts</mask>
+      <mask>*..ts</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
