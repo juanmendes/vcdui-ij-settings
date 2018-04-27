@@ -4,13 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.ts,*.html, !*.spec.ts,!*translations.ts,*.java</mask>
-      <mask>*.ts,*.html, !*.spec.ts,!translations.ts,*.java</mask>
-      <mask>*</mask>
-      <mask>*.rout</mask>
-      <mask>*.routes.</mask>
-      <mask>*.routes.t</mask>
-      <mask>*.routes.ts</mask>
       <mask>*.route.ts</mask>
       <mask>*.rout.ts</mask>
       <mask>*.rou.ts</mask>
@@ -34,6 +27,13 @@
       <mask>*.p.ts</mask>
       <mask>*..ts</mask>
       <mask>*.ts</mask>
+      <mask>!*.ts</mask>
+      <mask>!*s.ts</mask>
+      <mask>!*sp.ts</mask>
+      <mask>!*spe.ts</mask>
+      <mask>!*spec.ts</mask>
+      <mask>!*spec..ts</mask>
+      <mask>!*.spec..ts</mask>
     </recentFileMasks>
   </component>
 </application>
