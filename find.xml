@@ -7,26 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.module.ts" />
     <recentFileMasks>
-      <mask>*.route.ts</mask>
-      <mask>*.rout.ts</mask>
-      <mask>*.rou.ts</mask>
-      <mask>*.ro.ts</mask>
-      <mask>*.r.ts</mask>
-      <mask>*.m.ts</mask>
-      <mask>*.mo.ts</mask>
-      <mask>*.mod.ts</mask>
-      <mask>*.modu.ts</mask>
-      <mask>*.modul.ts</mask>
-      <mask>*.module.ts</mask>
-      <mask>*.spec.ts</mask>
-      <mask>*.spe.ts</mask>
-      <mask>*.sp.ts</mask>
-      <mask>*.s.ts</mask>
-      <mask>*.pile.ts</mask>
-      <mask>*.pil.ts</mask>
-      <mask>*.pipe.ts</mask>
-      <mask>*.pip.ts</mask>
       <mask>*.pi.ts</mask>
       <mask>*.p.ts</mask>
       <mask>*..ts</mask>
@@ -38,6 +20,25 @@
       <mask>!*spec.ts</mask>
       <mask>!*spec..ts</mask>
       <mask>!*.spec..ts</mask>
+      <mask>!*.mspec..ts</mask>
+      <mask>!*.mospec..ts</mask>
+      <mask>!*.modspec..ts</mask>
+      <mask>!*.moduspec..ts</mask>
+      <mask>!*.modulspec..ts</mask>
+      <mask>!*.modulespec..ts</mask>
+      <mask>!*.modulepec..ts</mask>
+      <mask>!*.modulec..ts</mask>
+      <mask>!*.module..ts</mask>
+      <mask>!*.module.ts</mask>
+      <mask>*.s.ts</mask>
+      <mask>*.sp.ts</mask>
+      <mask>*.spe.ts</mask>
+      <mask>*.spec.ts</mask>
+      <mask>*.m.ts</mask>
+      <mask>*.mo.ts</mask>
+      <mask>*.mod.ts</mask>
+      <mask>*.modu.ts</mask>
+      <mask>*.module.ts</mask>
     </recentFileMasks>
   </component>
 </application>
