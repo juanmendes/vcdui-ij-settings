@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.module.ts" />
     <recentFileMasks>
       <mask>*.p.ts</mask>
       <mask>*..ts</mask>
@@ -26,16 +27,16 @@
       <mask>!*.modulec..ts</mask>
       <mask>!*.module..ts</mask>
       <mask>!*.module.ts</mask>
+      <mask>*.s.ts</mask>
+      <mask>*.sp.ts</mask>
+      <mask>*.spe.ts</mask>
+      <mask>*.spec.ts</mask>
       <mask>*.m.ts</mask>
       <mask>*.mo.ts</mask>
       <mask>*.mod.ts</mask>
       <mask>*.modu.ts</mask>
       <mask>*.modul.ts</mask>
       <mask>*.module.ts</mask>
-      <mask>*.s.ts</mask>
-      <mask>*.sp.ts</mask>
-      <mask>*.spe.ts</mask>
-      <mask>*.spec.ts</mask>
     </recentFileMasks>
   </component>
 </application>
