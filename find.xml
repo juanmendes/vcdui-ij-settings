@@ -1,24 +1,14 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.spec.ts, !*.properties" />
     <recentFileMasks>
-      <mask>*..ts</mask>
-      <mask>*.ts</mask>
-      <mask>!*.ts</mask>
-      <mask>!*s.ts</mask>
-      <mask>!*sp.ts</mask>
-      <mask>!*spe.ts</mask>
-      <mask>!*spec.ts</mask>
-      <mask>!*spec..ts</mask>
-      <mask>!*.spec..ts</mask>
-      <mask>!*.mspec..ts</mask>
-      <mask>!*.mospec..ts</mask>
-      <mask>!*.modspec..ts</mask>
-      <mask>!*.moduspec..ts</mask>
-      <mask>!*.modulspec..ts</mask>
-      <mask>!*.modulespec..ts</mask>
       <mask>!*.modulepec..ts</mask>
       <mask>!*.modulec..ts</mask>
       <mask>!*.module..ts</mask>
@@ -34,6 +24,21 @@
       <mask>*.spe.ts</mask>
       <mask>*.spec.ts.ts</mask>
       <mask>*.spec.ts</mask>
+      <mask>!*.spec.ts</mask>
+      <mask>!*.spec.ts,</mask>
+      <mask>!*.spec.ts,</mask>
+      <mask>!*.spec.ts, !</mask>
+      <mask>!*.spec.ts, !*</mask>
+      <mask>!*.spec.ts, !*.</mask>
+      <mask>!*.spec.ts, !*.p</mask>
+      <mask>!*.spec.ts, !*.pr</mask>
+      <mask>!*.spec.ts, !*.pro</mask>
+      <mask>!*.spec.ts, !*.prop</mask>
+      <mask>!*.spec.ts, !*.proper</mask>
+      <mask>!*.spec.ts, !*.propert</mask>
+      <mask>!*.spec.ts, !*.properti</mask>
+      <mask>!*.spec.ts, !*.propertie</mask>
+      <mask>!*.spec.ts, !*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
