@@ -7,37 +7,38 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.spec.ts, !*.properties, !*.*css, !*.bundle.js" />
     <recentFileMasks>
-      <mask>!*.modulepec..ts</mask>
-      <mask>!*.modulec..ts</mask>
-      <mask>!*.module..ts</mask>
-      <mask>!*.module.ts</mask>
-      <mask>*.s.ts</mask>
-      <mask>*.m.ts</mask>
-      <mask>*.mo.ts</mask>
-      <mask>*.mod.ts</mask>
-      <mask>*.modu.ts</mask>
-      <mask>*.modul.ts</mask>
-      <mask>*.module.ts</mask>
-      <mask>*.sp.ts</mask>
-      <mask>*.spe.ts</mask>
-      <mask>*.spec.ts.ts</mask>
-      <mask>*.spec.ts</mask>
-      <mask>!*.spec.ts</mask>
-      <mask>!*.spec.ts,</mask>
-      <mask>!*.spec.ts,</mask>
-      <mask>!*.spec.ts, !</mask>
-      <mask>!*.spec.ts, !*</mask>
-      <mask>!*.spec.ts, !*.</mask>
-      <mask>!*.spec.ts, !*.p</mask>
-      <mask>!*.spec.ts, !*.pr</mask>
-      <mask>!*.spec.ts, !*.pro</mask>
-      <mask>!*.spec.ts, !*.prop</mask>
-      <mask>!*.spec.ts, !*.proper</mask>
-      <mask>!*.spec.ts, !*.propert</mask>
-      <mask>!*.spec.ts, !*.properti</mask>
-      <mask>!*.spec.ts, !*.propertie</mask>
       <mask>!*.spec.ts, !*.properties</mask>
+      <mask>!*.spec.ts, !*.properties,</mask>
+      <mask>!*.spec.ts, !*.properties,</mask>
+      <mask>!*.spec.ts, !*.properties, , !*.properties</mask>
+      <mask>!*.spec.ts, !*.properties, , !*.propertis</mask>
+      <mask>!*.spec.ts, !*.properties, , !*.properts</mask>
+      <mask>!*.spec.ts, !*.properties, , !*.propers</mask>
+      <mask>!*.spec.ts, !*.properties, , !*.propes</mask>
+      <mask>!*.spec.ts, !*.properties, , !*.props</mask>
+      <mask>!*.spec.ts, !*.properties, , !*.pros</mask>
+      <mask>!*.spec.ts, !*.properties, , !*.prs</mask>
+      <mask>!*.spec.ts, !*.properties, , !*.ps</mask>
+      <mask>!*.spec.ts, !*.properties, , !*.s</mask>
+      <mask>!*.spec.ts, !*.properties, , !*.*s</mask>
+      <mask>!*.spec.ts, !*.properties, , !*.*cs</mask>
+      <mask>!*.spec.ts, !*.properties, , !*.*css</mask>
+      <mask>!*.spec.ts, !*.properties, ,!*.*css</mask>
+      <mask>!*.spec.ts, !*.properties, !*.*css</mask>
+      <mask>!*.spec.ts, !*.properties, !*.*css,</mask>
+      <mask>!*.spec.ts, !*.properties, !*.*css,</mask>
+      <mask>!*.spec.ts, !*.properties, !*.*css, !</mask>
+      <mask>!*.spec.ts, !*.properties, !*.*css, !*</mask>
+      <mask>!*.spec.ts, !*.properties, !*.*css, !*.</mask>
+      <mask>!*.spec.ts, !*.properties, !*.*css, !*.b</mask>
+      <mask>!*.spec.ts, !*.properties, !*.*css, !*.bu</mask>
+      <mask>!*.spec.ts, !*.properties, !*.*css, !*.bun</mask>
+      <mask>!*.spec.ts, !*.properties, !*.*css, !*.bund</mask>
+      <mask>!*.spec.ts, !*.properties, !*.*css, !*.bundle</mask>
+      <mask>!*.spec.ts, !*.properties, !*.*css, !*.bundle.</mask>
+      <mask>!*.spec.ts, !*.properties, !*.*css, !*.bundle.js</mask>
     </recentFileMasks>
   </component>
 </application>
