@@ -7,7 +7,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.spec.ts, !*.properties, !*.*css, !*.bundle.js" />
     <recentFileMasks>
       <mask>!*.spec.ts, !*.properties</mask>
       <mask>!*.spec.ts, !*.properties,</mask>
