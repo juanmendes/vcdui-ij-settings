@@ -1,21 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*service*" />
     <recentFileMasks>
-      <mask>!*.spec.ts, !*.properties</mask>
-      <mask>!*.spec.ts, !*.properties,</mask>
-      <mask>!*.spec.ts, !*.properties,</mask>
-      <mask>!*.spec.ts, !*.properties, , !*.properties</mask>
-      <mask>!*.spec.ts, !*.properties, , !*.propertis</mask>
-      <mask>!*.spec.ts, !*.properties, , !*.properts</mask>
-      <mask>!*.spec.ts, !*.properties, , !*.propers</mask>
-      <mask>!*.spec.ts, !*.properties, , !*.propes</mask>
       <mask>!*.spec.ts, !*.properties, , !*.props</mask>
       <mask>!*.spec.ts, !*.properties, , !*.pros</mask>
       <mask>!*.spec.ts, !*.properties, , !*.prs</mask>
@@ -38,6 +29,14 @@
       <mask>!*.spec.ts, !*.properties, !*.*css, !*.bundle</mask>
       <mask>!*.spec.ts, !*.properties, !*.*css, !*.bundle.</mask>
       <mask>!*.spec.ts, !*.properties, !*.*css, !*.bundle.js</mask>
+      <mask>*</mask>
+      <mask>*s</mask>
+      <mask>*se</mask>
+      <mask>*ser</mask>
+      <mask>*serv</mask>
+      <mask>*servic</mask>
+      <mask>*service</mask>
+      <mask>*service*</mask>
     </recentFileMasks>
   </component>
 </application>
