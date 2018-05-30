@@ -5,30 +5,12 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts,!*.spec.ts,!.js" />
     <recentFileMasks>
-      <mask>!*.spec.ts, !*.properties, , !*.props</mask>
-      <mask>!*.spec.ts, !*.properties, , !*.pros</mask>
-      <mask>!*.spec.ts, !*.properties, , !*.prs</mask>
-      <mask>!*.spec.ts, !*.properties, , !*.ps</mask>
-      <mask>!*.spec.ts, !*.properties, , !*.s</mask>
-      <mask>!*.spec.ts, !*.properties, , !*.*s</mask>
-      <mask>!*.spec.ts, !*.properties, , !*.*cs</mask>
-      <mask>!*.spec.ts, !*.properties, , !*.*css</mask>
-      <mask>!*.spec.ts, !*.properties, ,!*.*css</mask>
-      <mask>!*.spec.ts, !*.properties, !*.*css</mask>
-      <mask>!*.spec.ts, !*.properties, !*.*css,</mask>
-      <mask>!*.spec.ts, !*.properties, !*.*css,</mask>
-      <mask>!*.spec.ts, !*.properties, !*.*css, !</mask>
-      <mask>!*.spec.ts, !*.properties, !*.*css, !*</mask>
-      <mask>!*.spec.ts, !*.properties, !*.*css, !*.</mask>
-      <mask>!*.spec.ts, !*.properties, !*.*css, !*.b</mask>
-      <mask>!*.spec.ts, !*.properties, !*.*css, !*.bu</mask>
-      <mask>!*.spec.ts, !*.properties, !*.*css, !*.bun</mask>
       <mask>!*.spec.ts, !*.properties, !*.*css, !*.bund</mask>
       <mask>!*.spec.ts, !*.properties, !*.*css, !*.bundle</mask>
       <mask>!*.spec.ts, !*.properties, !*.*css, !*.bundle.</mask>
       <mask>!*.spec.ts, !*.properties, !*.*css, !*.bundle.js</mask>
-      <mask>*</mask>
       <mask>*s</mask>
       <mask>*se</mask>
       <mask>*ser</mask>
@@ -36,6 +18,25 @@
       <mask>*servic</mask>
       <mask>*service</mask>
       <mask>*service*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
+      <mask>*.ts,</mask>
+      <mask>*.ts,!</mask>
+      <mask>*.ts,!*</mask>
+      <mask>*.ts,!*.</mask>
+      <mask>*.ts,!*.s</mask>
+      <mask>*.ts,!*.sp</mask>
+      <mask>*.ts,!*.spe</mask>
+      <mask>*.ts,!*.spec</mask>
+      <mask>*.ts,!*.spec.</mask>
+      <mask>*.ts,!*.spec.t</mask>
+      <mask>*.ts,!*.spec.ts</mask>
+      <mask>*.ts,!*.spec.ts,</mask>
+      <mask>*.ts,!*.spec.ts,!</mask>
+      <mask>*.ts,!*.spec.ts,!.</mask>
+      <mask>*.ts,!*.spec.ts,!.js</mask>
     </recentFileMasks>
   </component>
 </application>
