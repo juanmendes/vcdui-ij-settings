@@ -5,24 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts,!*.spec.ts,!.js" />
+    <option name="FILE_MASK" value="*.ts,!*.spec.ts,!.js,!translations.ts" />
     <recentFileMasks>
-      <mask>!*.spec.ts, !*.properties, !*.*css, !*.bund</mask>
-      <mask>!*.spec.ts, !*.properties, !*.*css, !*.bundle</mask>
-      <mask>!*.spec.ts, !*.properties, !*.*css, !*.bundle.</mask>
-      <mask>!*.spec.ts, !*.properties, !*.*css, !*.bundle.js</mask>
-      <mask>*s</mask>
-      <mask>*se</mask>
-      <mask>*ser</mask>
-      <mask>*serv</mask>
-      <mask>*servic</mask>
-      <mask>*service</mask>
-      <mask>*service*</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>*.ts,</mask>
       <mask>*.ts,!</mask>
       <mask>*.ts,!*</mask>
       <mask>*.ts,!*.</mask>
@@ -37,6 +21,22 @@
       <mask>*.ts,!*.spec.ts,!</mask>
       <mask>*.ts,!*.spec.ts,!.</mask>
       <mask>*.ts,!*.spec.ts,!.js</mask>
+      <mask>*.ts,!*.spec.ts,!.js,</mask>
+      <mask>*.ts,!*.spec.ts,!.js,!</mask>
+      <mask>*.ts,!*.spec.ts,!.js,!t</mask>
+      <mask>*.ts,!*.spec.ts,!.js,!tr</mask>
+      <mask>*.ts,!*.spec.ts,!.js,!tra</mask>
+      <mask>*.ts,!*.spec.ts,!.js,!tran</mask>
+      <mask>*.ts,!*.spec.ts,!.js,!trans</mask>
+      <mask>*.ts,!*.spec.ts,!.js,!transl</mask>
+      <mask>*.ts,!*.spec.ts,!.js,!transla</mask>
+      <mask>*.ts,!*.spec.ts,!.js,!translat</mask>
+      <mask>*.ts,!*.spec.ts,!.js,!translatio</mask>
+      <mask>*.ts,!*.spec.ts,!.js,!translation</mask>
+      <mask>*.ts,!*.spec.ts,!.js,!translations</mask>
+      <mask>*.ts,!*.spec.ts,!.js,!translations.</mask>
+      <mask>*.ts,!*.spec.ts,!.js,!translations.t</mask>
+      <mask>*.ts,!*.spec.ts,!.js,!translations.ts</mask>
     </recentFileMasks>
   </component>
 </application>
