@@ -5,8 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts,*.spec.ts,!.js,!translations.ts" />
     <recentFileMasks>
-      <mask>*.ts,!</mask>
       <mask>*.ts,!*</mask>
       <mask>*.ts,!*.</mask>
       <mask>*.ts,!*.s</mask>
@@ -36,6 +36,7 @@
       <mask>*.ts,!*.spec.ts,!.js,!translations.</mask>
       <mask>*.ts,!*.spec.ts,!.js,!translations.t</mask>
       <mask>*.ts,!*.spec.ts,!.js,!translations.ts</mask>
+      <mask>*.ts,*.spec.ts,!.js,!translations.ts</mask>
     </recentFileMasks>
   </component>
 </application>
