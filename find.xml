@@ -3,24 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.spec.ts" />
+    <option name="FILE_MASK" value="!*.spec.ts, *.ts" />
     <recentFileMasks>
-      <mask>*..ts</mask>
-      <mask>*.ts</mask>
-      <mask>!*.ts</mask>
-      <mask>!*s.ts</mask>
-      <mask>!*sp.ts</mask>
-      <mask>!*spe.ts</mask>
-      <mask>!*spec.ts</mask>
-      <mask>!*spec..ts</mask>
-      <mask>!*.spec..ts</mask>
-      <mask>!*.mspec..ts</mask>
-      <mask>!*.mospec..ts</mask>
-      <mask>!*.modspec..ts</mask>
-      <mask>!*.moduspec..ts</mask>
-      <mask>!*.modulspec..ts</mask>
-      <mask>!*.modulespec..ts</mask>
-      <mask>!*.modulepec..ts</mask>
       <mask>!*.modulec..ts</mask>
       <mask>!*.module..ts</mask>
       <mask>!*.module.ts</mask>
@@ -34,7 +18,23 @@
       <mask>*.sp.ts</mask>
       <mask>*.spe.ts</mask>
       <mask>*.spec.ts.ts</mask>
+      <mask>!*.pec.ts</mask>
+      <mask>!*.j</mask>
+      <mask>!*.js</mask>
+      <mask>!*.</mask>
+      <mask>!*.c.ts</mask>
+      <mask>*!.spec.ts</mask>
       <mask>*.spec.ts</mask>
+      <mask>!*.spec.ts</mask>
+      <mask>!*.spec.ts</mask>
+      <mask>!*.spec.ts !*.spec.ts</mask>
+      <mask>!*.spec.ts, !*.spec.ts</mask>
+      <mask>!*.spec.ts, *.spec.ts</mask>
+      <mask>!*.spec.ts, *.pec.ts</mask>
+      <mask>!*.spec.ts, *.ec.ts</mask>
+      <mask>!*.spec.ts, *.c.ts</mask>
+      <mask>!*.spec.ts, *..ts</mask>
+      <mask>!*.spec.ts, *.ts</mask>
     </recentFileMasks>
   </component>
 </application>
