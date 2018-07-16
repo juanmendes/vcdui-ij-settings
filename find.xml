@@ -2,22 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>!*.modulec..ts</mask>
-      <mask>!*.module..ts</mask>
-      <mask>!*.module.ts</mask>
-      <mask>*.s.ts</mask>
-      <mask>*.m.ts</mask>
-      <mask>*.mo.ts</mask>
-      <mask>*.mod.ts</mask>
-      <mask>*.modu.ts</mask>
-      <mask>*.modul.ts</mask>
-      <mask>*.module.ts</mask>
-      <mask>*.sp.ts</mask>
-      <mask>*.spe.ts</mask>
       <mask>*.spec.ts.ts</mask>
       <mask>!*.pec.ts</mask>
       <mask>!*.j</mask>
@@ -35,6 +21,18 @@
       <mask>!*.spec.ts, *.ec.ts</mask>
       <mask>!*.spec.ts, *.c.ts</mask>
       <mask>!*.spec.ts, *..ts</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.po</mask>
+      <mask>*.pom</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
       <mask>!*.spec.ts, *.ts</mask>
     </recentFileMasks>
   </component>
