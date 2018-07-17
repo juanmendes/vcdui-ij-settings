@@ -3,20 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*spec.ts" />
     <recentFileMasks>
-      <mask>*.spec.ts.ts</mask>
-      <mask>!*.pec.ts</mask>
-      <mask>!*.j</mask>
-      <mask>!*.js</mask>
-      <mask>!*.</mask>
-      <mask>!*.c.ts</mask>
-      <mask>*!.spec.ts</mask>
-      <mask>*.spec.ts</mask>
-      <mask>!*.spec.ts</mask>
-      <mask>!*.spec.ts</mask>
-      <mask>!*.spec.ts !*.spec.ts</mask>
-      <mask>!*.spec.ts, !*.spec.ts</mask>
-      <mask>!*.spec.ts, *.spec.ts</mask>
       <mask>!*.spec.ts, *.pec.ts</mask>
       <mask>!*.spec.ts, *.ec.ts</mask>
       <mask>!*.spec.ts, *.c.ts</mask>
@@ -34,6 +22,19 @@
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
       <mask>!*.spec.ts, *.ts</mask>
+      <mask>m</mask>
+      <mask>mo</mask>
+      <mask>mod</mask>
+      <mask>modu</mask>
+      <mask>module</mask>
+      <mask>module.</mask>
+      <mask>module.t</mask>
+      <mask>module.ts</mask>
+      <mask>*module.ts</mask>
+      <mask>*s.ts</mask>
+      <mask>*sp.ts</mask>
+      <mask>*spe.ts</mask>
+      <mask>*spec.ts</mask>
     </recentFileMasks>
   </component>
 </application>
