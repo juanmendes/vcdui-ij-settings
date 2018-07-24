@@ -5,13 +5,8 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*spec.ts,!*.js" />
     <recentFileMasks>
-      <mask>!*.spec.ts, *.pec.ts</mask>
-      <mask>!*.spec.ts, *.ec.ts</mask>
-      <mask>!*.spec.ts, *.c.ts</mask>
-      <mask>!*.spec.ts, *..ts</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.po</mask>
       <mask>*.pom</mask>
@@ -36,6 +31,12 @@
       <mask>*sp.ts</mask>
       <mask>*spe.ts</mask>
       <mask>*spec.ts</mask>
+      <mask>!*spec.ts</mask>
+      <mask>!*spec.ts,</mask>
+      <mask>!*spec.ts,!</mask>
+      <mask>!*spec.ts,!*</mask>
+      <mask>!*spec.ts,!*.</mask>
+      <mask>!*spec.ts,!*.js</mask>
     </recentFileMasks>
   </component>
 </application>
