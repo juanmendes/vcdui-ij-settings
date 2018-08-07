@@ -2,39 +2,40 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.js" />
     <recentFileMasks>
-      <mask>pom.xm</mask>
-      <mask>pom.xml</mask>
-      <mask>!*.spec.ts, *.ts</mask>
-      <mask>m</mask>
-      <mask>mo</mask>
-      <mask>mod</mask>
-      <mask>modu</mask>
-      <mask>module</mask>
-      <mask>module.</mask>
-      <mask>module.t</mask>
-      <mask>module.ts</mask>
-      <mask>*module.ts</mask>
-      <mask>*s.ts</mask>
-      <mask>*sp.ts</mask>
-      <mask>*spe.ts</mask>
-      <mask>*spec.ts</mask>
+      <mask>*..ts</mask>
+      <mask>*.ts</mask>
+      <mask>!*.ts</mask>
+      <mask>!*s.ts</mask>
+      <mask>!*sp.ts</mask>
+      <mask>!*spe.ts</mask>
       <mask>!*spec.ts</mask>
-      <mask>!*spec.ts,</mask>
-      <mask>!*spec.ts,!</mask>
-      <mask>!*spec.ts,!*</mask>
-      <mask>!*spec.ts,!*.</mask>
-      <mask>!*spec.ts,!*.js</mask>
-      <mask>*</mask>
-      <mask>*.ht</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
-      <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>!*.js</mask>
+      <mask>!*spec..ts</mask>
+      <mask>!*.spec..ts</mask>
+      <mask>!*.mspec..ts</mask>
+      <mask>!*.mospec..ts</mask>
+      <mask>!*.modspec..ts</mask>
+      <mask>!*.moduspec..ts</mask>
+      <mask>!*.modulspec..ts</mask>
+      <mask>!*.modulespec..ts</mask>
+      <mask>!*.modulepec..ts</mask>
+      <mask>!*.modulec..ts</mask>
+      <mask>!*.module..ts</mask>
+      <mask>!*.module.ts</mask>
+      <mask>*.s.ts</mask>
+      <mask>*.m.ts</mask>
+      <mask>*.mo.ts</mask>
+      <mask>*.mod.ts</mask>
+      <mask>*.modu.ts</mask>
+      <mask>*.modul.ts</mask>
+      <mask>*.module.ts</mask>
+      <mask>*.sp.ts</mask>
+      <mask>*.spe.ts</mask>
+      <mask>*.spec.ts.ts</mask>
+      <mask>*.spec.ts</mask>
     </recentFileMasks>
   </component>
 </application>
