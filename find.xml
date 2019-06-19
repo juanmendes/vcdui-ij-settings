@@ -2,40 +2,38 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
+      <mask>*.compo.ts</mask>
+      <mask>*.compone.ts</mask>
+      <mask>*.componen.ts</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.co</mask>
+      <mask>*.com</mask>
+      <mask>*.comp</mask>
+      <mask>*.compo</mask>
+      <mask>*.compon</mask>
+      <mask>*.compone</mask>
+      <mask>*.componen</mask>
+      <mask>*.component</mask>
+      <mask>*.component.</mask>
+      <mask>*.component.t</mask>
+      <mask>*.component.ts</mask>
       <mask>*..ts</mask>
-      <mask>*.ts</mask>
-      <mask>!*.ts</mask>
-      <mask>!*s.ts</mask>
-      <mask>!*sp.ts</mask>
-      <mask>!*spe.ts</mask>
-      <mask>!*spec.ts</mask>
-      <mask>!*spec..ts</mask>
-      <mask>!*.spec..ts</mask>
-      <mask>!*.mspec..ts</mask>
-      <mask>!*.mospec..ts</mask>
-      <mask>!*.modspec..ts</mask>
-      <mask>!*.moduspec..ts</mask>
-      <mask>!*.modulspec..ts</mask>
-      <mask>!*.modulespec..ts</mask>
-      <mask>!*.modulepec..ts</mask>
-      <mask>!*.modulec..ts</mask>
-      <mask>!*.module..ts</mask>
-      <mask>!*.module.ts</mask>
-      <mask>*.s.ts</mask>
-      <mask>*.m.ts</mask>
-      <mask>*.mo.ts</mask>
-      <mask>*.mod.ts</mask>
-      <mask>*.modu.ts</mask>
-      <mask>*.modul.ts</mask>
-      <mask>*.module.ts</mask>
-      <mask>*.sp.ts</mask>
-      <mask>*.spe.ts</mask>
-      <mask>*.spec.ts.ts</mask>
-      <mask>*.spec.ts</mask>
+      <mask>.*..ts</mask>
+      <mask>.*[..ts</mask>
+      <mask>.*[]..ts</mask>
+      <mask>.*[c]..ts</mask>
+      <mask>.*[c]\..ts</mask>
+      <mask>.*[c]\.ts</mask>
+      <mask>.*[c\.ts</mask>
+      <mask>.*[\.ts</mask>
+      <mask>.\.ts</mask>
+      <mask>.*\.ts</mask>
+      <mask>.*.ts</mask>
+      <mask>.*ts</mask>
     </recentFileMasks>
   </component>
 </application>
