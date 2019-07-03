@@ -3,37 +3,15 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.compo.ts</mask>
-      <mask>*.compone.ts</mask>
-      <mask>*.componen.ts</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
-      <mask>*.co</mask>
-      <mask>*.com</mask>
-      <mask>*.comp</mask>
-      <mask>*.compo</mask>
-      <mask>*.compon</mask>
-      <mask>*.compone</mask>
-      <mask>*.componen</mask>
-      <mask>*.component</mask>
-      <mask>*.component.</mask>
-      <mask>*.component.t</mask>
-      <mask>*.component.ts</mask>
-      <mask>*..ts</mask>
-      <mask>.*..ts</mask>
-      <mask>.*[..ts</mask>
-      <mask>.*[]..ts</mask>
-      <mask>.*[c]..ts</mask>
-      <mask>.*[c]\..ts</mask>
-      <mask>.*[c]\.ts</mask>
-      <mask>.*[c\.ts</mask>
-      <mask>.*[\.ts</mask>
-      <mask>.\.ts</mask>
-      <mask>.*\.ts</mask>
-      <mask>.*.ts</mask>
-      <mask>.*ts</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.html" />
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.html</mask>
   </component>
 </application>
