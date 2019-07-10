@@ -1,7 +1,6 @@
 <code_scheme name="vCloud_Director">
   <option name="RIGHT_MARGIN" value="100" />
   <TypeScriptCodeStyleSettings>
-    <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </TypeScriptCodeStyleSettings>
