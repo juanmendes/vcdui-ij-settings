@@ -2,40 +2,17 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.compo.ts</mask>
-      <mask>*.compone.ts</mask>
-      <mask>*.componen.ts</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
-      <mask>*.co</mask>
-      <mask>*.com</mask>
-      <mask>*.comp</mask>
-      <mask>*.compo</mask>
-      <mask>*.compon</mask>
-      <mask>*.compone</mask>
-      <mask>*.componen</mask>
-      <mask>*.component</mask>
-      <mask>*.component.</mask>
-      <mask>*.component.t</mask>
-      <mask>*.component.ts</mask>
-      <mask>*..ts</mask>
-      <mask>.*..ts</mask>
-      <mask>.*[..ts</mask>
-      <mask>.*[]..ts</mask>
-      <mask>.*[c]..ts</mask>
-      <mask>.*[c]\..ts</mask>
-      <mask>.*[c]\.ts</mask>
-      <mask>.*[c\.ts</mask>
-      <mask>.*[\.ts</mask>
-      <mask>.\.ts</mask>
-      <mask>.*\.ts</mask>
-      <mask>.*.ts</mask>
-      <mask>.*ts</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*.ts</mask>
+    <mask>*.html</mask>
+    <mask>*.xsd</mask>
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
   </component>
 </application>
