@@ -6,5 +6,7 @@
   </component>
   <component name="Registry">
     <entry key="search.everywhere.settings" value="true" />
+    <entry key="js.debugger.node.use.inspect" value="false" />
+    <entry key="jest.debugger.use.inspect" value="true" />
   </component>
 </application>
