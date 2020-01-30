@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.route*" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -17,5 +18,6 @@
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.xml</mask>
+    <mask>*.route*</mask>
   </component>
 </application>
