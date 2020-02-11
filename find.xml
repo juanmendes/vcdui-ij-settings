@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="system-tests" />
     <option name="defaultScopeName" value="system-tests" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="system-tests" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
