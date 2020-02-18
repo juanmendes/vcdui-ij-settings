@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="project-excludelogs" />
-    <option name="defaultScopeName" value="project-excludelogs" />
-    <option name="SEARCH_SCOPE" value="project-excludelogs" />
+    <option name="customScope" value="system-tests" />
+    <option name="defaultScopeName" value="system-tests" />
+    <option name="SEARCH_SCOPE" value="system-tests" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
