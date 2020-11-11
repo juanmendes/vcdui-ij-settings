@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Current File" />
-    <option name="defaultScopeName" value="Current File" />
-    <option name="SEARCH_SCOPE" value="Current File" />
-    <option name="FILE_MASK" value="*.xsd" />
+    <option name="customScope" value="project-excludelogs" />
+    <option name="defaultScopeName" value="project-excludelogs" />
+    <option name="SEARCH_SCOPE" value="project-excludelogs" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
