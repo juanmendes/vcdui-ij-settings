@@ -8,7 +8,6 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.css</mask>
-    <mask>*.properties</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
@@ -17,5 +16,6 @@
     <mask>*.java</mask>
     <mask>*.xsd</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
