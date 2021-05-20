@@ -1,18 +1,20 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="VdcService-NSXV-NSXT" type="PLAIN_TEXT" />
       <mapping pattern="lala" type="PLAIN_TEXT" />
       <mapping pattern="/api/sessions" type="PLAIN_TEXT" />
       <mapping pattern="core" type="PLAIN_TEXT" />
       <mapping pattern="access-setting-params.ts" type="PLAIN_TEXT" />
-      <mapping ext="bnd" type="PLAIN_TEXT" />
       <mapping ext="ovf" type="PLAIN_TEXT" />
+      <mapping ext="bnd" type="PLAIN_TEXT" />
       <mapping ext="ova" type="PLAIN_TEXT" />
       <mapping pattern="header-links-parser.ts" type="TypeScript" />
-      <mapping ext="service" type="TypeScript" />
       <mapping ext="pipe" type="TypeScript" />
+      <mapping ext="service" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
