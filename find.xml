@@ -3,6 +3,7 @@
     <option name="customScope" value="project-excludelogs" />
     <option name="defaultScopeName" value="project-excludelogs" />
     <option name="SEARCH_SCOPE" value="project-excludelogs" />
+    <option name="FILE_MASK" value="*.xsd" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -14,8 +15,8 @@
     <mask>*.yaml</mask>
     <mask>*.java</mask>
     <mask>*.groovy</mask>
-    <mask>*.xsd</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
