@@ -3,7 +3,6 @@
     <option name="customScope" value="project-excludelogs" />
     <option name="defaultScopeName" value="project-excludelogs" />
     <option name="SEARCH_SCOPE" value="project-excludelogs" />
-    <option name="FILE_MASK" value="*.xsd" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
