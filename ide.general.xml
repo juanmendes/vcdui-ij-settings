@@ -7,5 +7,6 @@
     <entry key="js.debugger.node.use.inspect" value="false" />
     <entry key="jest.debugger.use.inspect" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
   </component>
 </application>
