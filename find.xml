@@ -3,6 +3,7 @@
     <option name="customScope" value="project-excludelogs" />
     <option name="defaultScopeName" value="project-excludelogs" />
     <option name="SEARCH_SCOPE" value="project-excludelogs" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -14,9 +15,9 @@
     <mask>*.yaml</mask>
     <mask>*.groovy</mask>
     <mask>*.properties</mask>
-    <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.xsd</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
