@@ -15,8 +15,8 @@
     <mask>*.yaml</mask>
     <mask>*.xsd</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.groovy</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
