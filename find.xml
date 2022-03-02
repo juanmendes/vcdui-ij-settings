@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ovf" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -20,5 +21,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.groovy</mask>
+    <mask>*.ovf</mask>
   </component>
 </application>
