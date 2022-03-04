@@ -17,7 +17,7 @@
     <mask>*.groovy</mask>
     <mask>*.ovf</mask>
     <mask>*.java</mask>
-    <mask>*.xsd</mask>
     <mask>*.properties</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
