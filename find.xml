@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value=".hbm.xml" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -18,7 +19,8 @@
     <mask>*.xsd</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
-    <mask>.hbml</mask>
     <mask>*.java</mask>
+    <mask>.hbml</mask>
+    <mask>.hbm.xml</mask>
   </component>
 </application>
