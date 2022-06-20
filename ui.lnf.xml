@@ -1,9 +1,11 @@
 <application>
   <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
-    <option name="MAX_CLIPBOARD_CONTENTS" value="50" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="13" />
     <option name="MAX_LOOKUP_WIDTH2" value="950" />
-    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
+    <option name="CONTRAST_SCROLLBARS" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
