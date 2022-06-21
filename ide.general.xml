@@ -8,5 +8,6 @@
     <entry key="jest.debugger.use.inspect" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+    <entry key="eslint.service.node.arguments" value="--max_old_space_size=8192" />
   </component>
 </application>
