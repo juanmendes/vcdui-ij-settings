@@ -6,6 +6,7 @@
   </JavaCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JAVA">
@@ -40,6 +41,7 @@
     <option name="RIGHT_MARGIN" value="120" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="EXTENDS_LIST_WRAP" value="1" />
     <option name="BINARY_OPERATION_WRAP" value="1" />
